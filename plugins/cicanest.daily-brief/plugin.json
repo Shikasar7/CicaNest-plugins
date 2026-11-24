@@ -1,0 +1,10 @@
+{
+  "id": "cicanest.daily-brief",
+  "version": "1.0.0",
+  "name": "早报",
+  "author": "CicaNest",
+  "description": "教伙伴写一份简短、口语化的早报：天气、你关心的消息、今天的安排。配合定时任务每天早上用。",
+  "provides": {
+    "skills": ["skills/daily-brief.md"]
+  }
+}

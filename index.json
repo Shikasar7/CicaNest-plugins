@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "plugins": [
+    {
+      "id": "cicanest.daily-brief",
+      "name": "早报",
+      "version": "1.0.0",
+      "author": "CicaNest",
+      "description": "教伙伴写一份简短、口语化的早报：天气、你关心的消息、今天的安排。配合定时任务每天早上用。",
+      "kinds": [
+        "skills"
+      ],
+      "trust": "guides",
+      "url": "https://raw.githubusercontent.com/Shikasar7/CicaNest-plugins/main/dist/cicanest.daily-brief-1.0.0.zip",
+      "sha256": "e5bb6576e26e06c632f55882d25caf044f928dd7cf37ea7df19df089bfef6918",
+      "size": 1191,
+      "permissions": {
+        "network": [],
+        "secrets": [],
+        "confirm": []
+      }
+    }
+  ]
+}
