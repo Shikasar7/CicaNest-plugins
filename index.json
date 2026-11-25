@@ -1,5 +1,6 @@
 {
   "format": 1,
+  "report": "https://github.com/Shikasar7/CicaNest-plugins/issues/new?title=report%20{id}%20{version}",
   "plugins": [
     {
       "id": "cicanest.daily-brief",
